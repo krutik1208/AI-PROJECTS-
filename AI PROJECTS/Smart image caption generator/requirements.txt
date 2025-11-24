@@ -1,0 +1,12 @@
+streamlit==1.30.0
+numpy
+opencv-python
+Pillow
+tensorflow==2.12.0
+keras
+matplotlib
+scikit-image
+tqdm
+python-docx
+opencv-contrib-python
+python-pptx
